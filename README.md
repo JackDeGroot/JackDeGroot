@@ -3,7 +3,7 @@
 <h2>👨‍💻 Statistics Projects:</h2>
 
 - <b>R</b>
-  - [Bootstrapping Methods for Linear Regression](https://github.com/JackDeGroot/Bootstrapping-Methods-for-Linear-Regression)
+  - [Bootstrapping Methods for Linear Regression](https://github.com/JackDeGroot/Bootstrapping-Methods-for-Linear-Regression-Simulations)
   - [Smoothing Splines for Bitcoin Prices](https://github.com/JackDeGroot/Smoothing-Splines-for-Bitcoin-Prices)
   
 - <b>C#</b>
