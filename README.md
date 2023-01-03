@@ -1,6 +1,10 @@
 <h1>Hello I'm Jack DeGroot! 
  <br/>Student & Professor</a></h1>
+
+ <h2>Resume:</h2>
  
+ - [Resume](https://github.com/JackDeGroot/Resume)
+
  <h2>Interests:</h2>
 
 - Machine Learning
