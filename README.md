@@ -12,7 +12,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Python</b>
-  - [2012 Presidential Election Classification Model](https://github.com/JackDeGroot/Classification-Model-of-the-2012-Presidential-Election)
+  - [2020 Presidential Election Classification Model](https://github.com/JackDeGroot/Classification-Model-of-the-2020-Presidential-Election)
   
 <h2> 🤳 Connect with me:</h2>
 
