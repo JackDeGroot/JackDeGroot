@@ -1,4 +1,11 @@
-<h1>Hello I'm Jack, Welcome to my Page! <br/>Student</a>, Professor</a>, Statistcian</a>, Machine Learning Engineer</a></h1>
+<h1>Hello I'm Jack DeGroot! 
+ <br/>Student & Professor</a></h1>
+ 
+ <h2>Interests:</h2>
+
+- Machine Learning
+- Natural Language Processing
+- Time Series Analysis 
 
 <h2>👨‍💻 Statistics Projects:</h2>
 
