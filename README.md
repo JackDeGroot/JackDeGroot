@@ -14,10 +14,11 @@
 <h2> Master Project:</h2>
 
 - [Methods in Functional Data Analysis: Modeling Response Curves as Functions of Experimental Factors in Designed Experiments](https://github.com/JackDeGroot/Methods-in-Functional-Data-Analysis)
- 
-- <b>R</b>
-- <b>MATLAB</b>
-- <b>JMP</b>
+
+ <b>Programs Used</b>
+ - <b>R</b>
+ - <b>MATLAB</b>
+ - <b>JMP</b>
 
 <h2>👨‍💻 Statistics Projects:</h2>
 
