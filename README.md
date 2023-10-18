@@ -1,5 +1,5 @@
 <h1>Hello I'm Jack DeGroot! 
- <br/>Student & Professor</a></h1>
+ <br/>Farmer & Professor</a></h1>
 
  <h2>Resume:</h2>
  
