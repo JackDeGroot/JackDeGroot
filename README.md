@@ -20,11 +20,6 @@
 - <b>C#</b>
   - [A Mathematical Model for Forecasting the Spread of Covid-19 in Pennsylvania](https://github.com/JackDeGroot/A-Mathematical-Model-for-Forecasting-the-Spread-of-Covid-19-in-Pennsylvania)
   
-<h2>👨‍💻 Machine Learning Projects:</h2>
-
-- <b>Python</b>
-  - [2020 Presidential Election Classification Model](https://github.com/JackDeGroot/Classification-Model-of-the-2020-Presidential-Election)
-  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
