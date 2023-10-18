@@ -11,6 +11,11 @@
 - Design of Experiments
 - Time Series Analysis 
 
+<h2> Master Project:</h2>
+
+- [Methods in Functional Data Analysis: Modeling Response Curves as Functions of Experimental Factors in Designed Experiments](https://github.com/JackDeGroot/Bootstrapping-Methods-for-Linear-Regression-Simulations)
+ 
+
 <h2>👨‍💻 Statistics Projects:</h2>
 
 - <b>R</b>
