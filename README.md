@@ -8,7 +8,7 @@
  <h2>Interests:</h2>
 
 - Machine Learning
-- Natural Language Processing
+- Design of Experiments
 - Time Series Analysis 
 
 <h2>👨‍💻 Statistics Projects:</h2>
